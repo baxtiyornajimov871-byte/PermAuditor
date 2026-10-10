@@ -1,14 +1,16 @@
-# Ruxsat Auditori
+# BAXTIYOR AUDIT
 
 Android ilova: telefondagi ilovalarning ruxsatlarini tekshiradi va har biriga **xavf bali** (0-100) beradi.
+Interfeys uch tilda: o'zbek, ingliz, rus.
 
 ## Imkoniyatlar
 - Ilovalar ro'yxati: ikonka, nom, xavf bali, rangli chiziq, qidiruv va filtr
 - Tahlil oynasi: berilgan va so'ralgan ruxsatlar, fonda ishlash imkoniyati, batareya, ilova turi, xulosa
-- Telefon xavfsizligi: ekran qulfi, yangilanish, dasturchi rejimi, USB debugging, root belgilari, Accessibility
+- Telefon xavfsizligi: ekran qulfi, yangilanish, dasturchi rejimi, USB orqali sozlash, root belgilari, xotira shifrlanishi, maxsus xizmatlar
 - Yordamchi (chat): tayyor qoidalar va tekshiruv natijalariga asoslangan javoblar
 - Ilovaga kirish paroli (PBKDF2 xesh, tuz, xato urinishlarda kutish) va parol kuchi tekshirgichi
-- Hisobotni ulashish, maxfiylik va baholash sahifasi
+- Hisobotni ulashish, maxfiylik va baholash sahifasi, til tanlash
+- Ilova taymeri: kunlik vaqt limiti, limit tugagach bosh ekranga chiqarish yoki parol so'rash
 
 ## Cheklovlar
 - Ilova virus qidirmaydi, faqat ruxsat va imkoniyatlarni baholaydi.
